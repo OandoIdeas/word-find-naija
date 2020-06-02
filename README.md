@@ -1,2 +1,2 @@
-# word-find-naija
+# Word Find Naija
 A nigerian based swipe word game.
